@@ -1,0 +1,12 @@
+
+Business Entities.
+i) Customer ii) Manager iii) Receptionist iv) Staff
+v) Restaurent
+vi) Room
+
+Business Operations.
+i) Customer : Login, Booking,view Rooms, payment,order food, check in,
+ check out, Logout.
+ii) Manager :- Update rooms, manage staff
+iii) Receptionist :- view rooms, allocate rooms
+ view customer details
